@@ -25,4 +25,7 @@ Chapter 6 : React Native Navigation with React Navigation [Meals App]
 Chapter 7 : App-Wide State Management with Redux and Context API
 <img width="1909" height="1009" alt="image" src="https://github.com/user-attachments/assets/879e7d6c-b74c-4480-b72e-fbc349cfed2b" />
 
+Chapter 8 : Time to Practice - The Expense Tracker App
+<img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/568a1202-066f-421d-9dd6-17e91bb78e7c" />
+
 
