@@ -28,4 +28,8 @@ Chapter 7 : App-Wide State Management with Redux and Context API
 Chapter 8 : Time to Practice - The Expense Tracker App
 <img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/568a1202-066f-421d-9dd6-17e91bb78e7c" />
 
+Chapter 9 : Handling User Input
+<img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/ad04810c-cfe8-466e-9ea1-79db55022df2" />
+
+
 
