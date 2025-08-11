@@ -31,5 +31,9 @@ Chapter 8 : Time to Practice - The Expense Tracker App
 Chapter 9 : Handling User Input
 <img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/ad04810c-cfe8-466e-9ea1-79db55022df2" />
 
+Chapter 10 : Sending Http Requests
+<img width="1910" height="1002" alt="image" src="https://github.com/user-attachments/assets/e77912aa-ba17-4575-abc8-019496328b22" />
+
+
 
 
