@@ -34,6 +34,10 @@ Chapter 9 : Handling User Input
 Chapter 10 : Sending Http Requests
 <img width="1910" height="1002" alt="image" src="https://github.com/user-attachments/assets/e77912aa-ba17-4575-abc8-019496328b22" />
 
+Chapter 11 : User Authentication
+<img width="1919" height="1071" alt="image" src="https://github.com/user-attachments/assets/1074d6f4-e0d7-4aa3-a1bc-05478230e7b2" />
+
+
 
 
 
